@@ -26,7 +26,7 @@
 - [Minitest](https://github.com/minitest/minitest)
 * * *
 ## Для кого эта книга
->Книгу надо прочитать тем, у кого уже есть навыки работы с Rails. И рекомендует почитать литературу
+>Книгу надо прочитать тем, у кого уже есть навыки работы с Rails. И рекомендуется почитать литературу
 - Michael Hartl - [Rails Tutorial](https://www.railstutorial.org/)
 - Daniel Kehoe - [Learn Ruby on Rails](https://learn-rails.com/)
 - Sam Ruby - [Agile Web Development with Rails 4](https://pragprog.com/titles/rails4/agile-web-development-with-rails-4/)
