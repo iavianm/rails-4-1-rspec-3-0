@@ -15,7 +15,7 @@
 Настройка для push'а в свой репозиторий
 `git remote set-url --push origin git@github.com:iavianm/rails-4-1-rspec-3-0.git`
 
-Переключиться на ветку 2 главы
+Переключиться на ветку второй главы
 `git checkout -b 02_setup origin/02_setup`
 * * *
 ## **2 глава - Настройка RSpec**
